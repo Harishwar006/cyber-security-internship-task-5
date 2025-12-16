@@ -1,0 +1,57 @@
+ 📡 Network Traffic Capture and Analysis using Wireshark (Kali Linux)
+
+📌 Project Overview
+This project demonstrates how to capture and analyze live network traffic using **Wireshark** on **Kali Linux**.  
+The objective is to understand how network packets flow, identify common protocols, and gain hands-on experience in packet analysis, which is a core skill in cybersecurity and network troubleshooting.
+
+---
+
+🎯 Objective
+- Capture live network packets from an active network interface
+- Analyze different types of network traffic
+- Identify and filter multiple network protocols
+- Export packet capture for documentation and analysis
+
+---
+
+ 🛠 Tools & Environment
+*Operating System:** Kali Linux  
+*Tool Used:** Wireshark  
+*File Format:** `.pcap`  
+
+---
+
+🧪 Task Description
+The following steps were performed as part of this task:
+
+1. Installed Wireshark on Kali Linux
+2. Selected the active network interface (Wi-Fi / Ethernet)
+3. Started live packet capture
+4. Generated network traffic by:
+   - Browsing websites
+   - Pinging external servers
+5. Stopped capture after sufficient traffic was collected
+6. Applied protocol filters in Wireshark
+7. Identified multiple network protocols
+8. Exported captured packets as a `.pcap` file
+9. Documented observations and findings
+
+---
+
+🔍 Protocols Identified
+During packet analysis, the following protocols were observed:
+
+*TCP (Transmission Control Protocol)**  
+  Reliable, connection-oriented communication
+
+*UDP (User Datagram Protocol)**  
+  Fast, connectionless data transfer
+
+*DNS (Domain Name System)**  
+  Resolves domain names to IP addresses
+
+*HTTP / HTTPS**  
+  Web communication protocols
+
+---
+
